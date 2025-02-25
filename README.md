@@ -23,7 +23,12 @@ deployment: implementation and deployment of the software
 maintenance: maintai andd support the software 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-
+flexibility: waterfall is rigid and less adaptable to changes once delopment begins while agile allows continous adjustments based on the feedback received during each iteration
+requirements gathering: in waterfall, requirements are defined upfront and considered fixed while agile allows foe evolving requirements throughout the project
+customer involvement: in waterfall, customer involvement is mainly at the beginning and at the end of the project while agile actively engages customers in each iteration to provide feedback
+testing: in waterfall, testing is typically done at the end of the development process
+waterfall methodology is best used for projects with very concrete timelines and well-defined deliverables
+agile methodology is used for complex projects where the significant constraints are not well understood 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
