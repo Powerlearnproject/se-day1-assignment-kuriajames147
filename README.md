@@ -31,6 +31,9 @@ waterfall methodology is best used for projects with very concrete timelines and
 agile methodology is used for complex projects where the significant constraints are not well understood 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+Answer: - software developer is responsible for designing, coding, maintaining and testing software applications 
+- quality assurance engineer ensures that the software meets the quality standards and functions as intended
+- project manager has the role of overseeing the planning, execution, and delivery of software projects 
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
