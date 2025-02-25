@@ -5,13 +5,22 @@ Software Engineering Day1 Assignment
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry.
+Answer: This is the process of designing, building,testing and maintaining software 
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-
-
+Answer: 
+-1965 to 1985: The software crisis and operating system- the software crisis led to the springing of software engineering wich identified many of the problems of software development
+-1985 to 1989: no silver bullet- this is the ohase hwen the cost of owning and maintaining software in te 1980s was twice as expensive as developing the software
+- 1990 to 1999: prominence of the internet te rise of the internet ed to a growth in the demand for international information displays where developers changed the way of displaying information. This is also when the programmwers were pushed to use pictorial representation, maps and simple animations at a rate never seen before
 List and briefly explain the phases of the Software Development Life Cycle.
-
+planning: this is where the product or plan to be launched is defined and the requirements collected
+requirements analysis- here we analyse the problem and define the solution
+design- create a design framework, application architecture and prototype
+coding- develop and code the required product
+testing- here we test te software to ensure the functionality and quality
+deployment: implementation and deployment of the software
+maintenance: maintai andd support the software 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
