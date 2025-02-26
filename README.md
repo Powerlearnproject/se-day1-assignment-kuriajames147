@@ -12,7 +12,9 @@ Identify and describe at least three key milestones in the evolution of software
 
 Answer: 
 -1965 to 1985: The software crisis and operating system- the software crisis led to the springing of software engineering wich identified many of the problems of software development
+
 -1985 to 1989: no silver bullet- this is the ohase hwen the cost of owning and maintaining software in te 1980s was twice as expensive as developing the software
+
 - 1990 to 1999: prominence of the internet te rise of the internet ed to a growth in the demand for international information displays where developers changed the way of displaying information. This is also when the programmwers were pushed to use pictorial representation, maps and simple animations at a rate never seen before
 List and briefly explain the phases of the Software Development Life Cycle.
 planning: this is where the product or plan to be launched is defined and the requirements collected
@@ -52,7 +54,10 @@ importance of VCS
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1. remote work challenge-remote work can cause communication gaps and isolation may develop. the strategy to solve this is ensuring overcommunication to ensure clarity
-2. 
+2. imposter syndrome-this is where an individual feels insecure of another indidual despite the individual's competence. the strategy to overcome this isalways focusing on continous improvement rather than perfection
+3. scaling systems- this is the challenge being able to build systems that can handle growth in users or data. the strategy to solve this we design for scalability from the beginning eg by using horizontal scaling
+4. SECURITY CONCERNS- this is when there need to be an assurance that the software is secure from vulnerabilities and attacks. the strategy for this is to regularly conduct security audits and penetration testing
+5. debugging and troubleshooting- this might be sometimes time-consuming and frustrating. the strategy for this would be to use debugging tools and logging to trace problems
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
